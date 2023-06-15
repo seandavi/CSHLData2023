@@ -1,0 +1,15 @@
+---
+title: "References and Resources"
+bibliography: references.bib
+---
+
+## References
+
+## Resources
+
+- [Orchestrating Single-Cell Analysis with Bioconductor](https://bioconductor.org/books/release/OSCA/) 
+  : An online book and comprehensive guide to single-cell analysis with Bioconductor.
+- [Orchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor](https://lmweber.org/OSTA-book/)
+  : Ths online book is a bit more of a work-in-progress and presents a guide to spatially-resolved transcriptomics analysis with Bioconductor.
+- [Workshop on Machine Learning in Genetics and Genomics](https://www.youtube.com/playlist?list=PL1ay9ko4A8slpiTxI_mmmRGxG5_JPhhEW)
+  : A series of five talks on machine learning in genetics and genomics from the National Human Genome Research Institute (2021).
