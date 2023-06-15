@@ -2,6 +2,22 @@
 title: "CSHLData2023"
 ---
 
-This is a Quarto website.
+## Dates
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- Arrival: June 29th by 6pm EST
+- Departure: July 13th around 12pm EST
+
+
+## Teachers
+
+- Vincent Carey, Harvard Medical School
+- Sean Davis, University of Colorado Anschutz School of Medicine
+- Harmen Bussemaker, Columbia University
+- Leonardo Collado Torres, Lieber Institute for Brain Development
+- Ludwig Geistlinger, Harvard Medical School
+- Hans (Tomas) Rube, University of California
+- Min Zhang, University of California, Irvine
+- Shaoxun Liu, Columbia University
+- Daianna Glez
+- Renee Garcia Flores
+
