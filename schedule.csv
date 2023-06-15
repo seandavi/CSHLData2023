@@ -1,0 +1,100 @@
+Date,Start,_end,topic,format,speaker,Description,Title,Duration,
+6/29/2023,12:00,19:00,Students arriving,,,,Students arriving -- ,,Thursday
+6/29/2023,19:00,20:30,Introductions,informal discussion,,Wine and cheese,Introductions -- ,1:30,Thursday
+6/30/2023,9:00,12:00,Introduction to R,lecture/lab,Sean,,Introduction to R -- Sean,3:00,Friday
+6/30/2023,13:00,14:00,Probability and simulation,lecture,Vince,,Probability and simulation -- Vince,1:00,Friday
+6/30/2023,14:00,17:00,EDA and visualization,lecture/lab,Vince,,EDA and visualization -- Vince,3:00,Friday
+6/30/2023,19:00,21:00,Student talks,chalk talk or 3 slides,Students,5-minute lightning talks from each student,Student talks -- Students,2:00,Friday
+7/1/2023,9:00,10:30,Introduction to R,lecture/lab,Sean,,Introduction to R -- Sean,1:30,Saturday
+7/1/2023,10:30,12:00,"Inference, p-values, FDR",lecture,Vince,,"Inference, p-values, FDR -- Vince",1:30,Saturday
+7/1/2023,13:00,15:00,t-statistic and basic power calculations,lecture/lab,Sean,,t-statistic and basic power calculations -- Sean,2:00,Saturday
+7/1/2023,15:00,17:00,Overview of Bioconductor,,Vince,,Overview of Bioconductor -- Vince,2:00,Saturday
+7/1/2023,19:00,21:00,Student talks,,Students,,Student talks -- Students,2:00,Saturday
+7/2/2023,9:00,10:30,Public Data and Data Access,Lecture,Sean,,Public Data and Data Access -- Sean,1:30,Sunday
+7/2/2023,10:30,12:00,Rmarkdown,Lecture/lab,Sean,,Rmarkdown -- Sean,1:30,Sunday
+7/2/2023,13:00,14:30,Linear regression and GLMs,Lecture/lab,Vince,,Linear regression and GLMs -- Vince,1:30,Sunday
+7/2/2023,14:30,17:00,Summarized Experiment,Lecture/lab,Sean,,Summarized Experiment -- Sean,2:30,Sunday
+7/3/2023,9:00,11:00,SummarizedExperiment objects in the real world,Lecture/lab,"Leo, Daianna, Renee (aka, Leo's team)",,SPEAQeasy / smokingMouse introduction,2:00,Monday
+7/3/2023,11:00,12:00,Interactive SummarizedExperiment visualizations,Lecture/lab,Leo,,Visualization of expression data with iSEE + mean/centering heatmaps,1:00,Monday
+7/3/2023,13:00,14:00,,Lecture/lab,"Daianna (lead), Leo (support)",,Overview of smokingMouse plots + hands-on exercise overvview,1:00,Monday
+7/3/2023,14:00,17:00,,lab,NA (Leo's team),,Hands-on exercise to reproduce smokingMouse plots with iSEE & R,3:00,Monday
+7/3/2023,19:00,20:00,biocthis: making your R/Bioconductor package,demo,Leo,,Introduction to making R/Bioconductor packages with biocthis,1:00,Monday
+7/4/2023,9:00,11:00,SummarizedExperiment objects built with recount3,Lecture/lab,Leo,,Downloading RNA-seq data using recount3,2:00,Tuesday
+7/4/2023,11:00,12:00,Interpreting coefficients,Lecture/lab,Leo,,Statistical models with ExploreModelMatrix,1:00,Tuesday
+7/4/2023,13:00,14:00,DE analysis main steps,Lecture/lab,Leo,,Differential expression analysis introductory code with limma + hands-on exercise overview,1:00,Tuesday
+7/4/2023,14:00,17:00,,lab,NA (Leo's team),,hands-on exercise using recount3 data,3:00,Tuesday
+7/4/2023,19:00,23:59,Off for fireworks,,NA,,Off for fireworks -- NA,4:59,Tuesday
+7/5/2023,9:00,10:30,Model building,Lecture/lab,"Daianna (lead), Leo (support)",,Choosing variables for your DE analysis with variancePartition,1:30,Wednesday
+7/5/2023,10:30,12:00,Expression heatmaps,Lecture/lab,"Renee (lead), Leo (support)",,Visualizing DE genes with ComplexHeatmap,1:30,Wednesday
+7/5/2023,13:00,14:30,Bayes Theorem,,Tomas,,,1:30,Wednesday
+7/5/2023,15:00,17:00,,lab,NA (Leo's team),,hands-on portion of variancePartition + ComplexHeatmap with smokingMouse / recount3 / their data,2:00,Wednesday
+7/5/2023,19:00,20:00,,demo,Leo,,Anything the students wants (more biocthis? HubPub demo?),1:00,Wednesday
+7/6/2023,9:00,10:00,Visium spatial overview,Lecture,Leo,,Introduction to the world of spatially-resolved transcriptomics with Visium data (SingleCellExperiment --> SpatialExperiment --> spatialLIBD),1:00,Thursday
+7/6/2023,10:00,12:00,spatialLIBD overview,Lecture/lab,Leo,,Downloading public Visium spatial data with spatialLIBD + visualizing it with it (shiny app + R functions),2:00,Thursday
+7/6/2023,13:00,14:30,Dimensional Reduction,,Tomas,,,1:30,Thursday
+7/6/2023,14:30,15:30,spatialLIBD functions for pseudobulking & DE,Lecture/lab,Leo,,spatialLIBD: re-use of bulk RNA-seq methods for spatial data (pseudobulk + PCA) + hands-on exercise overview,1:00,Thursday
+7/6/2023,15:30,17:00,,lab,NA (Leo),,Hands-on with making plots with pseudobulked spatial data (3 LIBD projects to choose from),1:30,Thursday
+7/7/2023,0:00,23:59,Day off,,NA,,,23:59,Friday
+7/8/2023,9:00,12:00,,,Min,,,3:00,Saturday
+7/8/2023,13:00,17:00,GSEA,,Ludwig,,,4:00,Saturday
+7/9/2023,9:00,12:00,,,Min,,,3:00,Sunday
+7/9/2023,13:00,17:00,,,Min,,,,Sunday
+7/10/2023,9:00,16:00,Motif discovery lecture/lab,,Harmen,,,7:00,Monday
+7/10/2023,16:00,17:00,Research Talk,,Tomas,,Dissecting cis-regulatory logic with deep sequencing and biophysically interpretable machine learning,,Monday
+7/10/2023,19:00,20:00,Research Talk,,Harmen,,Inferred transcription factor activity as a quantitative genetic traiit,,Monday
+7/11/2023,9:00,11:00,ATAC-Seq,,Sean,,ATAC-Seq -- Sean,2:00,Tuesday
+7/11/2023,11:00,12:00,Machine Learning,,Sean,,Machine Learning -- Sean,,Tuesday
+7/11/2023,13:00,14:00,Machine Learning,,Sean,,Machine Learning -- Sean,,Tuesday
+7/11/2023,14:00,17:00,ML or ATAC lab,,Sean,,ML or ATAC lab -- Sean,,Tuesday
+7/12/2023,9:00,12:00,Motif discovery lecture/lab,,Harmen,,BANQUET,3:00,Wednesday
+7/12/2023,13:00,16:00,Open Lab,,NA,,Open Lab -- NA,,Wednesday
+7/12/2023,18:00,21:00,BANQUET,,,,BANQUET,3:00,Wednesday
+7/13/2023,,,DEPARTURE,,,,DEPARTURE,0:00,Thursday
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,3:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,1:30,Saturday
+,,,,,,,,1:30,Saturday
+,,,,,,,,1:30,Saturday
+,,,,,,,,2:30,Saturday
+,,,,,,,,2:00,Saturday
+,,,,,,,,1:30,Saturday
+,,,,,,,,1:30,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,2:00,Saturday
+,,,,,,,,23:59,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,2:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,2:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,2:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,2:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,3:00,Saturday
+,,,,,,,,1:00,Saturday
+,,,,,,,,3:00,Saturday
