@@ -23,11 +23,11 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           packages:
-            knitr
-            quarto
-            rmarkdown
-            dplyr
-            kableExtra
+            any::knitr
+            any::quarto
+            any::rmarkdown
+            any::dplyr
+            any::kableExtra
 
       - name: Publish to Netlify (and render)
         uses: quarto-dev/quarto-actions/publish@v2
