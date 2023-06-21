@@ -23,6 +23,7 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           cache: false
+          use-public-rspm: true
           # cache-version: 2 # change to 2 to invalidate cache
           packages:
             any::knitr
