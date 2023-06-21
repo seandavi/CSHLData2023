@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          # cache: true
+          cache: false
           # cache-version: 2 # change to 2 to invalidate cache
           packages:
             any::knitr
@@ -32,9 +32,8 @@ jobs:
             any::readr
             any::kableExtra
 
-      - name: Publish to Netlify (and render)
+      - name: Publish to Github Pages
         uses: quarto-dev/quarto-actions/publish@v2
-        with:
           to: html
 
       
