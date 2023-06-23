@@ -1,9 +1,14 @@
 ---
 title: "References and Resources"
 bibliography: references.bib
+nocite: |
+  @*
 ---
 
 ## References
+
+::: {#refs}
+:::
 
 ## Resources
 
