@@ -21,13 +21,6 @@
     "text": "Teachers\n\nVincent Carey, Harvard Medical School\nSean Davis, University of Colorado Anschutz School of Medicine\nHarmen Bussemaker, Columbia University\nLeonardo Collado Torres, Lieber Institute for Brain Development\nMin Zhang, University of California, Irvine\nLudwig Geistlinger, Harvard Medical School\nHans (Tomas) Rube, University of California, Merced\nShaoxun Liu, Columbia University\nDaianna Glez, Universidad Nacional Autónoma de México\nRenee Garcia Flores, Lieber Institute for Brain Development & New York Genome Center"
   },
   {
-    "objectID": "references.html#resources",
-    "href": "references.html#resources",
-    "title": "References and Resources",
-    "section": "Resources",
-    "text": "Resources\n\n\nOrchestrating Single-Cell Analysis with Bioconductor\n\nAn online book and comprehensive guide to single-cell analysis with Bioconductor.\n\n\n\nOrchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor\n\nThs online book is a bit more of a work-in-progress and presents a guide to spatially-resolved transcriptomics analysis with Bioconductor.\n\n\n\nWorkshop on Machine Learning in Genetics and Genomics\n\nA series of five talks on machine learning in genetics and genomics from the National Human Genome Research Institute (2021)."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -35,10 +28,122 @@
     "text": "About this site"
   },
   {
+    "objectID": "references.html#resources",
+    "href": "references.html#resources",
+    "title": "References and Resources",
+    "section": "Resources",
+    "text": "Resources\n\n\nOrchestrating Single-Cell Analysis with Bioconductor\n\nAn online book and comprehensive guide to single-cell analysis with Bioconductor.\n\n\n\nOrchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor\n\nThs online book is a bit more of a work-in-progress and presents a guide to spatially-resolved transcriptomics analysis with Bioconductor.\n\n\n\nWorkshop on Machine Learning in Genetics and Genomics\n\nA series of five talks on machine learning in genetics and genomics from the National Human Genome Research Institute (2021)."
+  },
+  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Date\nStart\ntopic\nformat\nTitle\nDuration\n\n\n\n\n6/29/2023\n12:00:00\nStudents arriving\nNA\nStudents arriving --\nNA\n\n\n6/29/2023\n19:00:00\nIntroductions\ninformal discussion\nIntroductions --\n01:30:00\n\n\n6/30/2023\n09:00:00\nIntroduction to R\nlecture/lab\nIntroduction to R -- Sean\n03:00:00\n\n\n6/30/2023\n13:00:00\nProbability and simulation\nlecture\nProbability and simulation -- Vince\n01:00:00\n\n\n6/30/2023\n14:00:00\nEDA and visualization\nlecture/lab\nEDA and visualization -- Vince\n03:00:00\n\n\n6/30/2023\n19:00:00\nStudent talks\nchalk talk or 3 slides\nStudent talks -- Students\n02:00:00\n\n\n7/1/2023\n09:00:00\nIntroduction to R\nlecture/lab\nIntroduction to R -- Sean\n01:30:00\n\n\n7/1/2023\n10:30:00\nInference, p-values, FDR\nlecture\nInference, p-values, FDR -- Vince\n01:30:00\n\n\n7/1/2023\n13:00:00\nt-statistic and basic power calculations\nlecture/lab\nt-statistic and basic power calculations -- Sean\n02:00:00\n\n\n7/1/2023\n15:00:00\nOverview of Bioconductor\nNA\nOverview of Bioconductor -- Vince\n02:00:00\n\n\n7/1/2023\n19:00:00\nStudent talks\nNA\nStudent talks -- Students\n02:00:00\n\n\n7/2/2023\n09:00:00\nPublic Data and Data Access\nLecture\nPublic Data and Data Access -- Sean\n01:30:00\n\n\n7/2/2023\n10:30:00\nRmarkdown\nLecture/lab\nRmarkdown -- Sean\n01:30:00\n\n\n7/2/2023\n13:00:00\nLinear regression and GLMs\nLecture/lab\nLinear regression and GLMs -- Vince\n01:30:00\n\n\n7/2/2023\n14:30:00\nSummarized Experiment\nLecture/lab\nSummarized Experiment -- Sean\n02:30:00\n\n\n7/3/2023\n09:00:00\nSummarizedExperiment objects in the real world\nLecture/lab\nSPEAQeasy / smokingMouse introduction\n02:00:00\n\n\n7/3/2023\n11:00:00\nInteractive SummarizedExperiment visualizations\nLecture/lab\nVisualization of expression data with iSEE + mean/centering heatmaps\n01:00:00\n\n\n7/3/2023\n13:00:00\nNA\nLecture/lab\nOverview of smokingMouse plots + hands-on exercise overvview\n01:00:00\n\n\n7/3/2023\n14:00:00\nNA\nlab\nHands-on exercise to reproduce smokingMouse plots with iSEE & R\n03:00:00\n\n\n7/3/2023\n19:00:00\nbiocthis: making your R/Bioconductor package\ndemo\nIntroduction to making R/Bioconductor packages with biocthis\n01:00:00\n\n\n7/4/2023\n09:00:00\nSummarizedExperiment objects built with recount3\nLecture/lab\nDownloading RNA-seq data using recount3\n02:00:00\n\n\n7/4/2023\n11:00:00\nInterpreting coefficients\nLecture/lab\nStatistical models with ExploreModelMatrix\n01:00:00\n\n\n7/4/2023\n13:00:00\nDE analysis main steps\nLecture/lab\nDifferential expression analysis introductory code with limma + hands-on exercise overview\n01:00:00\n\n\n7/4/2023\n14:00:00\nNA\nlab\nhands-on exercise using recount3 data\n03:00:00\n\n\n7/4/2023\n19:00:00\nOff for fireworks\nNA\nOff for fireworks -- NA\n04:59:00\n\n\n7/5/2023\n09:00:00\nModel building\nLecture/lab\nChoosing variables for your DE analysis with variancePartition\n01:30:00\n\n\n7/5/2023\n10:30:00\nExpression heatmaps\nLecture/lab\nVisualizing DE genes with ComplexHeatmap\n01:30:00\n\n\n7/5/2023\n13:00:00\nBayes Theorem\nNA\nNA\n01:30:00\n\n\n7/5/2023\n15:00:00\nNA\nlab\nhands-on portion of variancePartition + ComplexHeatmap with smokingMouse / recount3 / their data\n02:00:00\n\n\n7/5/2023\n19:00:00\nNA\ndemo\nAnything the students wants (more biocthis? HubPub demo?)\n01:00:00\n\n\n7/6/2023\n09:00:00\nVisium spatial overview\nLecture\nIntroduction to the world of spatially-resolved transcriptomics with Visium data (SingleCellExperiment --&gt; SpatialExperiment --&gt; spatialLIBD)\n01:00:00\n\n\n7/6/2023\n10:00:00\nspatialLIBD overview\nLecture/lab\nDownloading public Visium spatial data with spatialLIBD + visualizing it with it (shiny app + R functions)\n02:00:00\n\n\n7/6/2023\n13:00:00\nDimensional Reduction\nNA\nNA\n01:30:00\n\n\n7/6/2023\n14:30:00\nspatialLIBD functions for pseudobulking & DE\nLecture/lab\nspatialLIBD: re-use of bulk RNA-seq methods for spatial data (pseudobulk + PCA) + hands-on exercise overview\n01:00:00\n\n\n7/6/2023\n15:30:00\nNA\nlab\nHands-on with making plots with pseudobulked spatial data (3 LIBD projects to choose from)\n01:30:00\n\n\n7/7/2023\n00:00:00\nDay off\nNA\nNA\n23:59:00\n\n\n7/8/2023\n09:00:00\nNA\nNA\nNA\n03:00:00\n\n\n7/8/2023\n13:00:00\nGSEA\nNA\nNA\n04:00:00\n\n\n7/9/2023\n09:00:00\nNA\nNA\nNA\n03:00:00\n\n\n7/9/2023\n13:00:00\nNA\nNA\nNA\nNA\n\n\n7/10/2023\n09:00:00\nMotif discovery lecture/lab\nNA\nNA\n07:00:00\n\n\n7/10/2023\n16:00:00\nResearch Talk\nNA\nDissecting cis-regulatory logic with deep sequencing and biophysically interpretable machine learning\nNA\n\n\n7/10/2023\n19:00:00\nResearch Talk\nNA\nInferred transcription factor activity as a quantitative genetic traiit\nNA\n\n\n7/11/2023\n09:00:00\nATAC-Seq\nNA\nATAC-Seq -- Sean\n02:00:00\n\n\n7/11/2023\n11:00:00\nMachine Learning\nNA\nMachine Learning -- Sean\nNA\n\n\n7/11/2023\n13:00:00\nMachine Learning\nNA\nMachine Learning -- Sean\nNA\n\n\n7/11/2023\n14:00:00\nML or ATAC lab\nNA\nML or ATAC lab -- Sean\nNA\n\n\n7/12/2023\n09:00:00\nMotif discovery lecture/lab\nNA\nBANQUET\n03:00:00\n\n\n7/12/2023\n13:00:00\nOpen Lab\nNA\nOpen Lab -- NA\nNA\n\n\n7/12/2023\n18:00:00\nBANQUET\nNA\nBANQUET\n03:00:00"
+    "text": "12:00-19:00\nStudents arriving\nStudents arriving –\n19:00-20:30\nIntroductions\nIntroductions –\ninformal discussion"
+  },
+  {
+    "objectID": "schedule.html#section",
+    "href": "schedule.html#section",
+    "title": "Schedule",
+    "section": "",
+    "text": "12:00-19:00\nStudents arriving\nStudents arriving –\n19:00-20:30\nIntroductions\nIntroductions –\ninformal discussion"
+  },
+  {
+    "objectID": "schedule.html#section-1",
+    "href": "schedule.html#section-1",
+    "title": "Schedule",
+    "section": "6/30/2023",
+    "text": "6/30/2023\n\n9:00-12:00\nIntroduction to R\nIntroduction to R – Sean\nSean\nlecture/lab\n13:00-14:00\nProbability and simulation\nProbability and simulation – Vince\nVince\nlecture\n14:00-17:00\nEDA and visualization\nEDA and visualization – Vince\nVince\nlecture/lab\n19:00-21:00\nStudent talks\nStudent talks – Students\nStudents\nchalk talk or 3 slides"
+  },
+  {
+    "objectID": "schedule.html#section-2",
+    "href": "schedule.html#section-2",
+    "title": "Schedule",
+    "section": "7/1/2023",
+    "text": "7/1/2023\n\n9:00-10:30\nIntroduction to R\nIntroduction to R – Sean\nSean\nlecture/lab\n10:30-12:00\nInference, p-values, FDR\nInference, p-values, FDR – Vince\nVince\nlecture\n13:00-15:00\nt-statistic and basic power calculations\nt-statistic and basic power calculations – Sean\nSean\nlecture/lab\n15:00-17:00\nOverview of Bioconductor\nOverview of Bioconductor – Vince\nVince\n19:00-21:00\nStudent talks\nStudent talks – Students\nStudents"
+  },
+  {
+    "objectID": "schedule.html#section-3",
+    "href": "schedule.html#section-3",
+    "title": "Schedule",
+    "section": "7/2/2023",
+    "text": "7/2/2023\n\n9:00-10:30\nPublic Data and Data Access\nPublic Data and Data Access – Sean\nSean\nLecture\n10:30-12:00\nRmarkdown\nRmarkdown – Sean\nSean\nLecture/lab\n13:00-14:30\nLinear regression and GLMs\nLinear regression and GLMs – Vince\nVince\nLecture/lab\n14:30-17:00\nSummarized Experiment\nSummarized Experiment – Sean\nSean\nLecture/lab"
+  },
+  {
+    "objectID": "schedule.html#section-4",
+    "href": "schedule.html#section-4",
+    "title": "Schedule",
+    "section": "7/3/2023",
+    "text": "7/3/2023\n\n9:00-11:00\nSummarizedExperiment objects in the real world\nSPEAQeasy / smokingMouse introduction\nLeo, Daianna, Renee (aka, Leo’s team)\nLecture/lab\n11:00-12:00\nInteractive SummarizedExperiment visualizations\nVisualization of expression data with iSEE + mean/centering heatmaps\nLeo\nLecture/lab\n13:00-14:00\nOverview of smokingMouse plots + hands-on exercise overvview\nDaianna (lead), Leo (support)\nLecture/lab\n14:00-17:00\nHands-on exercise to reproduce smokingMouse plots with iSEE & R\nNA (Leo’s team)\nlab\n19:00-20:00\nbiocthis: making your R/Bioconductor package\nIntroduction to making R/Bioconductor packages with biocthis\nLeo\ndemo"
+  },
+  {
+    "objectID": "schedule.html#section-5",
+    "href": "schedule.html#section-5",
+    "title": "Schedule",
+    "section": "7/4/2023",
+    "text": "7/4/2023\n\n9:00-11:00\nSummarizedExperiment objects built with recount3\nDownloading RNA-seq data using recount3\nLeo\nLecture/lab\n11:00-12:00\nInterpreting coefficients\nStatistical models with ExploreModelMatrix\nLeo\nLecture/lab\n13:00-14:00\nDE analysis main steps\nDifferential expression analysis introductory code with limma + hands-on exercise overview\nLeo\nLecture/lab\n14:00-17:00\nhands-on exercise using recount3 data\nNA (Leo’s team)\nlab\n19:00-23:59\nOff for fireworks\nOff for fireworks – NA\nNA"
+  },
+  {
+    "objectID": "schedule.html#section-6",
+    "href": "schedule.html#section-6",
+    "title": "Schedule",
+    "section": "7/5/2023",
+    "text": "7/5/2023\n\n9:00-10:30\nModel building\nChoosing variables for your DE analysis with variancePartition\nDaianna (lead), Leo (support)\nLecture/lab\n10:30-12:00\nExpression heatmaps\nVisualizing DE genes with ComplexHeatmap\nRenee (lead), Leo (support)\nLecture/lab\n13:00-14:30\nBayes Theorem\nTomas\n15:00-17:00\nhands-on portion of variancePartition + ComplexHeatmap with smokingMouse / recount3 / their data\nNA (Leo’s team)\nlab\n19:00-20:00\nAnything the students wants (more biocthis? HubPub demo?)\nLeo\ndemo"
+  },
+  {
+    "objectID": "schedule.html#section-7",
+    "href": "schedule.html#section-7",
+    "title": "Schedule",
+    "section": "7/6/2023",
+    "text": "7/6/2023\n\n9:00-10:00\nVisium spatial overview\nIntroduction to the world of spatially-resolved transcriptomics with Visium data (SingleCellExperiment –&gt; SpatialExperiment –&gt; spatialLIBD)\nLeo\nLecture\n10:00-12:00\nspatialLIBD overview\nDownloading public Visium spatial data with spatialLIBD + visualizing it with it (shiny app + R functions)\nLeo\nLecture/lab\n13:00-14:30\nDimensional Reduction\nTomas\n14:30-15:30\nspatialLIBD functions for pseudobulking & DE\nspatialLIBD: re-use of bulk RNA-seq methods for spatial data (pseudobulk + PCA) + hands-on exercise overview\nLeo\nLecture/lab\n15:30-17:00\nHands-on with making plots with pseudobulked spatial data (3 LIBD projects to choose from)\nNA (Leo)\nlab"
+  },
+  {
+    "objectID": "schedule.html#section-8",
+    "href": "schedule.html#section-8",
+    "title": "Schedule",
+    "section": "7/7/2023",
+    "text": "7/7/2023\n\n0:00-23:59\nDay off\nNA"
+  },
+  {
+    "objectID": "schedule.html#section-9",
+    "href": "schedule.html#section-9",
+    "title": "Schedule",
+    "section": "7/8/2023",
+    "text": "7/8/2023\n\n9:00-12:00\nMin\n13:00-17:00\nGSEA\nLudwig"
+  },
+  {
+    "objectID": "schedule.html#section-10",
+    "href": "schedule.html#section-10",
+    "title": "Schedule",
+    "section": "7/9/2023",
+    "text": "7/9/2023\n\n9:00-12:00\nMin\n13:00-17:00\nMin"
+  },
+  {
+    "objectID": "schedule.html#section-11",
+    "href": "schedule.html#section-11",
+    "title": "Schedule",
+    "section": "7/10/2023",
+    "text": "7/10/2023\n\n9:00-16:00\nMotif discovery lecture/lab\nHarmen\n16:00-17:00\nResearch Talk\nDissecting cis-regulatory logic with deep sequencing and biophysically interpretable machine learning\nTomas\n19:00-20:00\nResearch Talk\nInferred transcription factor activity as a quantitative genetic traiit\nHarmen"
+  },
+  {
+    "objectID": "schedule.html#section-12",
+    "href": "schedule.html#section-12",
+    "title": "Schedule",
+    "section": "7/11/2023",
+    "text": "7/11/2023\n\n9:00-11:00\nATAC-Seq\nATAC-Seq – Sean\nSean\n11:00-12:00\nMachine Learning\nMachine Learning – Sean\nSean\n13:00-14:00\nMachine Learning\nMachine Learning – Sean\nSean\n14:00-17:00\nML or ATAC lab\nML or ATAC lab – Sean\nSean"
+  },
+  {
+    "objectID": "schedule.html#section-13",
+    "href": "schedule.html#section-13",
+    "title": "Schedule",
+    "section": "7/12/2023",
+    "text": "7/12/2023\n\n9:00-12:00\nMotif discovery lecture/lab\nBANQUET\nHarmen\n13:00-16:00\nOpen Lab\nOpen Lab – NA\nNA\n18:00-21:00\nBANQUET\nBANQUET"
+  },
+  {
+    "objectID": "schedule.html#section-14",
+    "href": "schedule.html#section-14",
+    "title": "Schedule",
+    "section": "7/13/2023",
+    "text": "7/13/2023\n\n00:00-24:00\nDEPARTURE\nDEPARTURE"
   }
 ]
