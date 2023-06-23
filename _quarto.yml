@@ -10,6 +10,11 @@ website:
       - about.qmd
       - schedule.qmd
       - references.qmd
+    right:
+      - icon: github
+        href: https://github.com/seandavi/CSHLData2023
+        aria-label: GitHub
+
 
 format:
   html:
