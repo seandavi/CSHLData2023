@@ -2,19 +2,41 @@
 title: "Schedule"
 ---
 
-```{r setup, include=FALSE}
-library(knitr)
-library(readr)
-library(dplyr)
-library(kableExtra)
-knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```{python}
+
+
 ```
 
-```{r}
-t = read_csv("schedule.csv")
-t |> 
-  select(c(1,2,4,5,8,9)) |>
-  filter(!is.na(Start)) |>
-  kable() |> 
-  kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
+```{python results='asis'}
+#| output: 'asis'
+#| echo: False
+import csv
+
+# read csv file
+# Example rows:
+# Date,Start,_end,topic,format,speaker,Description,Title,Duration,
+# 6/29/2023,12:00,19:00,Students arriving,,,,Students arriving -- ,,Thursday
+# 6/29/2023,19:00,20:30,Introductions,informal discussion,,Wine and cheese,Introductions -- ,1:30,Thursday
+# 6/30/2023,9:00,12:00,Introduction to R,lecture/lab,Sean,,Introduction to R -- Sean,3:00,Friday
+# 6/30/2023,13:00,14:00,Probability and simulation,lecture,Vince,,Probability and simulation -- Vince,1:00,Friday
+with open("schedule.csv", 'rt') as f:
+    rows = {}
+    reader = csv.DictReader(f)
+    for row in reader:
+        if row['Date'] not in rows:
+            rows[row['Date']] = []
+        rows[row['Date']].append(row)
+    for k, v in rows.items():
+        print(f"## {k}\n")
+        for row in v:
+            print('* {Start}-{_end}'.format(**row))
+            if row['topic']!='':
+                print('\\\n  {topic}'.format(**row))
+            if row['Title']!='':
+                print('\\\n  {Title}'.format(**row))
+            if row['speaker']!='':
+                print('\\\n  {speaker}'.format(**row))
+            if row['format']!='':
+                print('\\\n  {format}'.format(**row))
+            print('\n')
 ```
