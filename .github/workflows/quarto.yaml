@@ -25,17 +25,6 @@ jobs:
           # version: SPECIFIC-QUARTO-VERSION-HERE
           #
 
-      - name: Install dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          packages:
-            any::knitr
-            any::quarto
-            any::rmarkdown
-            any::dplyr
-            any::readr
-            any::kableExtra
-
 
       # To publish to Netlify, RStudio Connect, or GitHub Pages, uncomment
       # the appropriate block below
