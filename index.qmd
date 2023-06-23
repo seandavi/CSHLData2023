@@ -10,14 +10,14 @@ title: "CSHLData2023"
 
 ## Teachers
 
-- Vincent Carey, Harvard Medical School
-- Sean Davis, University of Colorado Anschutz School of Medicine
-- Harmen Bussemaker, Columbia University
-- Leonardo Collado Torres, Lieber Institute for Brain Development
-- Ludwig Geistlinger, Harvard Medical School
-- Hans (Tomas) Rube, University of California
-- Min Zhang, University of California, Irvine
+- [Vincent Carey](https://connects.catalyst.harvard.edu/Profiles/display/Person/42421), Harvard Medical School
+- [Sean Davis](https://seandavi.github.io), University of Colorado Anschutz School of Medicine
+- [Harmen Bussemaker](https://bussemakerlab.org/site/), Columbia University
+- [Leonardo Collado Torres](https://lcolladotor.github.io/), Lieber Institute for Brain Development
+- [Min Zhang](https://cancer.uci.edu/about/staff/min-zhang), University of California, Irvine
+- [Ludwig Geistlinger](https://computationalbiomed.hms.harvard.edu/about/people/ludwig-geistlinger-phd/), Harvard Medical School
+- [Hans (Tomas) Rube](https://ccbm.ucmerced.edu/content/tomas-rube), University of California, Merced
 - Shaoxun Liu, Columbia University
-- Daianna Glez
-- Renee Garcia Flores
+- [Daianna Glez](https://www.linkedin.com/in/daianna-gonzalez-padilla-86913522b/?originalSubdomain=mx), Universidad Nacional Autónoma de México
+- [Renee Garcia Flores](https://reneegf.github.io/), Lieber Institute for Brain Development & New York Genome Center
 
