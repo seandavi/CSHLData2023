@@ -112,6 +112,20 @@
     "text": "7/13/2023\n\n00:00-24:00\nDEPARTURE\nDEPARTURE"
   },
   {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References and Resources",
+    "section": "",
+    "text": "Yan, Feng, David R Powell, David J Curtis, and Nicholas C Wong. 2020. “From Reads to Insight: A Hitchhiker’s Guide to ATAC-seq Data Analysis.” Genome Biology 21 (1): 22. https://doi.org/10.1186/s13059-020-1929-3."
+  },
+  {
+    "objectID": "references.html#references",
+    "href": "references.html#references",
+    "title": "References and Resources",
+    "section": "",
+    "text": "Yan, Feng, David R Powell, David J Curtis, and Nicholas C Wong. 2020. “From Reads to Insight: A Hitchhiker’s Guide to ATAC-seq Data Analysis.” Genome Biology 21 (1): 22. https://doi.org/10.1186/s13059-020-1929-3."
+  },
+  {
     "objectID": "references.html#resources",
     "href": "references.html#resources",
     "title": "References and Resources",
