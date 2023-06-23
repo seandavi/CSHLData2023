@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CSHLData2023",
-    "section": "",
-    "text": "Arrival: June 29th by 6pm EST\nDeparture: July 13th around 12pm EST"
-  },
-  {
-    "objectID": "index.html#dates",
-    "href": "index.html#dates",
-    "title": "CSHLData2023",
-    "section": "",
-    "text": "Arrival: June 29th by 6pm EST\nDeparture: July 13th around 12pm EST"
-  },
-  {
-    "objectID": "index.html#teachers",
-    "href": "index.html#teachers",
-    "title": "CSHLData2023",
-    "section": "Teachers",
-    "text": "Teachers\n\nVincent Carey, Harvard Medical School\nSean Davis, University of Colorado Anschutz School of Medicine\nHarmen Bussemaker, Columbia University\nLeonardo Collado Torres, Lieber Institute for Brain Development\nMin Zhang, University of California, Irvine\nLudwig Geistlinger, Harvard Medical School\nHans (Tomas) Rube, University of California, Merced\nShaoxun Liu, Columbia University\nDaianna Glez, Universidad Nacional Autónoma de México\nRenee Garcia Flores, Lieber Institute for Brain Development & New York Genome Center"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "references.html#resources",
-    "href": "references.html#resources",
-    "title": "References and Resources",
-    "section": "Resources",
-    "text": "Resources\n\n\nOrchestrating Single-Cell Analysis with Bioconductor\n\nAn online book and comprehensive guide to single-cell analysis with Bioconductor.\n\n\n\nOrchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor\n\nThs online book is a bit more of a work-in-progress and presents a guide to spatially-resolved transcriptomics analysis with Bioconductor.\n\n\n\nWorkshop on Machine Learning in Genetics and Genomics\n\nA series of five talks on machine learning in genetics and genomics from the National Human Genome Research Institute (2021)."
-  },
-  {
     "objectID": "schedule.html",
     "href": "schedule.html",
     "title": "Schedule",
@@ -145,5 +110,40 @@
     "title": "Schedule",
     "section": "7/13/2023",
     "text": "7/13/2023\n\n00:00-24:00\nDEPARTURE\nDEPARTURE"
+  },
+  {
+    "objectID": "references.html#resources",
+    "href": "references.html#resources",
+    "title": "References and Resources",
+    "section": "Resources",
+    "text": "Resources\n\n\nOrchestrating Single-Cell Analysis with Bioconductor\n\nAn online book and comprehensive guide to single-cell analysis with Bioconductor.\n\n\n\nOrchestrating Spatially-Resolved Transcriptomics Analysis with Bioconductor\n\nThs online book is a bit more of a work-in-progress and presents a guide to spatially-resolved transcriptomics analysis with Bioconductor.\n\n\n\nWorkshop on Machine Learning in Genetics and Genomics\n\nA series of five talks on machine learning in genetics and genomics from the National Human Genome Research Institute (2021)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CSHLData2023",
+    "section": "",
+    "text": "Arrival: June 29th by 6pm EST\nDeparture: July 13th around 12pm EST"
+  },
+  {
+    "objectID": "index.html#dates",
+    "href": "index.html#dates",
+    "title": "CSHLData2023",
+    "section": "",
+    "text": "Arrival: June 29th by 6pm EST\nDeparture: July 13th around 12pm EST"
+  },
+  {
+    "objectID": "index.html#teachers",
+    "href": "index.html#teachers",
+    "title": "CSHLData2023",
+    "section": "Teachers",
+    "text": "Teachers\n\nVincent Carey, Harvard Medical School\nSean Davis, University of Colorado Anschutz School of Medicine\nHarmen Bussemaker, Columbia University\nLeonardo Collado Torres, Lieber Institute for Brain Development\nMin Zhang, University of California, Irvine\nLudwig Geistlinger, Harvard Medical School\nHans (Tomas) Rube, University of California, Merced\nShaoxun Liu, Columbia University\nDaianna Glez, Universidad Nacional Autónoma de México\nRenee Garcia Flores, Lieber Institute for Brain Development & New York Genome Center"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
